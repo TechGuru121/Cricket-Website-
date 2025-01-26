@@ -20,3 +20,4 @@ Create database “shop-db”.
 Import the database file( Database will be avail in the package)
  Link for the project: http://localhost/shop_db
 Link for admin Panel: http://localhost/shop_db/admin.php
+Link for Home Page: http://localhost/projectdone/projectdone/home.php
